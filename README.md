@@ -4,6 +4,7 @@ This is a template for your final project. Please use this stucture when submitt
 
 ## Directories
 
+- `project-proposal/`: A folder for your first week's homework files.
 - `data-raw/`: A folder for your data before you do anything with it.
 - `data-clean/`: A folder for you to put your cleaned data. It is good practice to keep your raw data and your cleaned data separate so that you know exactly what changes have happened and always have an original copy of your data before any changes occurred.
 - `output`: A folder for graphs or other output produced by your analyses.
