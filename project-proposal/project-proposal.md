@@ -1,3 +1,3 @@
 # Project proposal
 
-You first week's submission files will got here.
+Your first week's submission files will go here.
